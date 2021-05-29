@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYSM", "HYSM.csproj", "{C178A307-CCE5-4836-A7F1-EB0F2434CA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYSM.Tests", "..\HYSM.Tests\HYSM.Tests.csproj", "{937120E1-39BE-46E7-A5B5-F1294EE8D140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C178A307-CCE5-4836-A7F1-EB0F2434CA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C178A307-CCE5-4836-A7F1-EB0F2434CA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C178A307-CCE5-4836-A7F1-EB0F2434CA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C178A307-CCE5-4836-A7F1-EB0F2434CA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937120E1-39BE-46E7-A5B5-F1294EE8D140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937120E1-39BE-46E7-A5B5-F1294EE8D140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937120E1-39BE-46E7-A5B5-F1294EE8D140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937120E1-39BE-46E7-A5B5-F1294EE8D140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC74238-C19A-4F6E-9D00-529A44FA0831}
+	EndGlobalSection
+EndGlobal
